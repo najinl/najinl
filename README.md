@@ -7,7 +7,7 @@
 
 ⭐️ Pronouns: she/her ⭐
 
-👷‍♀️ Former Life: Civil Engineer
+👷‍♀️ Former Life: Civil Engineer 🚧
 
  Connect with me on [LinkedIn](https://www.linkedin.com/in/n-naji/)!
 
