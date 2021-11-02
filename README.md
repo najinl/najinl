@@ -1,9 +1,9 @@
 ### Hi, I'm Nadia!
 🇪🇬 Arab/American 🇺🇸
 
-🔧 Tool Belt: JavaScript, TypeScript, Router, React Hooks, Accessible HTML, CSS/SCSS, Cypress and TDD (Mocha/Chai)
+🔧 Sweet Skills: JavaScript, TypeScript, Router, React Hooks, Accessible HTML, CSS/SCSS, Cypress and TDD (Mocha/Chai)
 
-🧗🏼‍♀️ Bouldering ⍟ Road Biking ⍟ Mountain Biking ⍟ XT250 🚵🏻
+🧗🏼‍♀️ Bouldering ⍟ Road Biking ⍟ Mountain Biking ⍟ Running ⍟ XT250 🚵🏻
 
 ⭐️ Pronouns: she/her ⭐
 
