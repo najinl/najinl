@@ -1,3 +1,4 @@
+### Hi, I'm Nadia
 ![Welcome GIF](https://i.imgur.com/VnCaMsq.gif)
 
 ☕ Current Project: Portfolio website
@@ -5,7 +6,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=najinl&theme=jolly&show_icons=true&count_private=true)
 
-###About Me
+### About Me
 
 🍚 Chinese/Laotian
 ✨ Pronouns: she/her
