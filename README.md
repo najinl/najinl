@@ -1,7 +1,7 @@
-### Hi, I'm Nadia!
+### Hi, I'm Nadia! I'm an associate software engineer at Conga ([WorkGH](https://github.com/nnaji-conga)).
 🇪🇬 Arab/American 🇺🇸
 
-🔧 Sweet Skills: JavaScript, TypeScript, Router, React Hooks, Accessible HTML, CSS/SCSS, Cypress and TDD (Mocha/Chai)
+🔧 Sweet Skills: JavaScript, TypeScript, C#, Router, React Hooks, Accessible HTML, CSS/SCSS, Cypress and TDD (Mocha/Chai)
 
 🧗🏼‍♀️ Bouldering ⍟ Road Biking ⍟ Mountain Biking ⍟ Running ⍟ XT250 🚵🏻
 
